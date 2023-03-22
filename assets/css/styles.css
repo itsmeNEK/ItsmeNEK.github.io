@@ -1,11 +1,4 @@
-/*!   
- * Template Name: Developer - Portfolio Landing Page Bootstrap 5 Template for Developers
- * Version: Bootstrap 5 v2.0
- * Author: Xiaoying Riley
- * Twitter: @3rdwave_themes
- * Copyright: 3rd Wave Media Ltd.
- * Website: https://themes.3rdwavemedia.com/
-*/
+
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
@@ -22,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #3AAA64;
+  color: #6e3aaa;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -65,16 +58,16 @@ a:focus {
 }
 
 a.btn-cta-primary, .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #6e3aaa;
+  border: 1px solid #6e3aaa;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-primary:hover, .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #6e3aaa;
+  border: 1px solid #6e3aaa;
   color: #fff;
 }
 
@@ -98,7 +91,7 @@ a.btn-cta-secondary:hover, a.btn-cta-secondary:not(:disabled):not(.disabled):act
 }
 
 .badge-theme {
-  background: #3AAA64;
+  background: #6e3aaa;
   font-size: 12px;
   color: #fff;
   border-radius: 2px;
@@ -257,7 +250,7 @@ a.dotted-link:hover {
 }
 
 .latest .has-ribbon .text {
-  background: #3AAA64;
+  background: #6e3aaa;
   color: #fff;
 }
 
@@ -435,7 +428,7 @@ a.dotted-link:hover {
 
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #6e3aaa;
 }
 
 .skills .svg-inline--fa {
@@ -648,8 +641,8 @@ a.dotted-link:hover {
 }
 
 .dark-mode-switch .form-check-input:checked {
-  background-color: #54ba4e;
-  border-color: #54ba4e;
+  background-color: #6e3aaa;
+  border-color: #6e3aaa;
 }
 
 .dark-mode-switch .form-check-input:focus {
@@ -664,7 +657,7 @@ body[data-theme="dark"] {
 }
 
 body[data-theme="dark"] a:hover {
-  color: #53c47d;
+  color: #6e3aaa;
 }
 
 body[data-theme="dark"] a.btn:hover {
@@ -672,7 +665,7 @@ body[data-theme="dark"] a.btn:hover {
 }
 
 body[data-theme="dark"] .dark-mode-switch .form-check-input:focus {
-  border-color: #54ba4e;
+  border-color: #6e3aaa;
 }
 
 body[data-theme="dark"] .header {
@@ -754,11 +747,11 @@ body[data-theme="dark"] .aside .subheading {
 body[data-theme="dark"] .gha-header, body[data-theme="dark"] .gha-footer, body[data-theme="dark"] .gha-feed {
   background: #17191c;
   border-color: rgba(255, 255, 255, 0.1);
-  color: #3AAA64;
+  color: #6e3aaa;
 }
 
 body[data-theme="dark"] .gha-feed a {
-  color: #3AAA64;
+  color: #6e3aaa;
 }
 
 body[data-theme="dark"] .gha-header > .gha-github-icon,
